@@ -1,6 +1,8 @@
 Analysis Notebooks
 ==================
 
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/eldeveloper/dogs)
+
 This repository contains the notebooks used to create the analyses in
 Vazquez-Baeza et. al. 20XX. Each notebook tries to summarize a particular step
 and be as standalone as possible. In this document we briefly describe each of
