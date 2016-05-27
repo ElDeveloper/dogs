@@ -46,6 +46,9 @@ in the manuscript.
 includes the creation of the beta diversity plots for the dog dataset only.
 Biplots and statistics to assess clustering significance are also performed as
 part of this notebook.
+[**3.1-beta-diversity-antibiotics.ipynb**](notebooks/3.1-beta-diversity-antibiotics.ipynb):
+compares the differences between samples according to their history fo
+antibiotic usage.
 
 ## Group significane
 
