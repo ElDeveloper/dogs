@@ -9,7 +9,7 @@ and be as standalone as possible. In this document we briefly describe each of
 the analyses needed for the paper and when possible we group them together, so
 as to provide more cohesion.
 
-**Note**: this notebook does not provide **all** the data files used, as the
+**Note**: this repository does not provide **all** the data files used, as the
 size would exceed the limits allowed in GitHub. However, we provide the
 main data files (metadata and OTU tables), from which the rest of the data
 can be generated using these commands.
@@ -93,7 +93,7 @@ the data between humans and dogs as comparable as possible.
 
 ## PICRUSt
 
-PICRUSt processing was processed at the [galaxy
+PICRUSt predictions were generated at the [galaxy
 server](https://huttenhower.sph.harvard.edu/galaxy/). In
 [**9-picrust**](notebooks/9-picrust.ipynb) we compare the combined human and
 dog samples, and in [**9.1-picrust-nsti**](notebooks/9.1-picrust-nsti.ipynb) we
@@ -105,6 +105,12 @@ predictions.
 In [**10-minamoto-md-index**](notebooks/10-minamoto-md-index.ipynb) notebook we
 use the dog-trained dysbiosis index in a different dataset, that was processed
 mainly in a separate supercomputer.
+
+## Read counts
+
+In [**11-sequence-counts**](notebooks/11-sequence-counts.ipynb), we explore the
+number of sequences that were assigned to an OTU per sample. Specifically we
+compare the differences betwee closed and open reference protocols.
 
 ---------------------
 
