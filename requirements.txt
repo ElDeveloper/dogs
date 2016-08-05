@@ -11,7 +11,7 @@ cogent==1.5.3
 Cython==0.22
 decorator==4.0.9
 docutils==0.12
-emperor==0.9.51.dev0
+emperor==0.9.51
 functools32==3.2.3.post2
 future==0.14.3
 gdata==2.0.18
