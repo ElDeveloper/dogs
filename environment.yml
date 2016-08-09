@@ -22,7 +22,7 @@ dependencies:
     - Cython==0.22
     - decorator==4.0.9
     - docutils==0.12
-    - git+https://github.com/biocore/emperor#egg=emperor
+    - emperor
     - functools32==3.2.3.post2
     - future==0.14.3
     - gdata==2.0.18
