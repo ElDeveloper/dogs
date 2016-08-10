@@ -56,11 +56,11 @@ dogs, and plots their relative abundance as a heatmap. While none of the plots
 shown in this notebook were used in this paper, it helped guide our analysis
 for the next few notebooks.
 
-## Dysbiosis index
+## Feature exploration
 
-[**5-md-index**](notebooks/5-md-index.ipynb): in this notebook we explored the
-behaviour of some of the taxa associated with the human-trained dysbiosis
-index, however we weren't able to find much information.
+[**5-feature-exploration**](notebooks/05-feature-exploration.ipynb): this
+notebook looks at a few different ways to filter out the data so as to avoid
+OTUs that are not well represented througout the samples.
 
 ## New dysbiosis index
 
