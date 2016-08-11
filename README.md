@@ -7,10 +7,17 @@ and be as standalone as possible. In this document we briefly describe each of
 the analyses needed for the paper and when possible we group them together, so
 as to provide more cohesion.
 
-**Note**: this repository does not provide **all** the data files used, as the
-size would exceed the limits allowed in GitHub. However, we provide the
-main data files (metadata and OTU tables), from which the rest of the data
-can be generated using these commands.
+#### Important notes for the reader
+
+- This repository does not provide **all** the data files used, as the size
+  would exceed the limits allowed in GitHub. However, we provide the main data
+  files (metadata and OTU tables), from which the rest of the data can be
+  generated using these commands.
+
+- In several locations in the notebooks, there are cells that reference a
+  remote address (i.e. in `ssh` or `scp` commands), you don't need to execute
+  these commands, the files being fetched should already be provided in this
+  repository.
 
 -----------------------
 
