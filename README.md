@@ -2,10 +2,11 @@ Analysis Notebooks
 ==================
 
 This repository contains the notebooks used to create the analyses in
-Vazquez-Baeza et. al. 20XX. Each notebook tries to summarize a particular step
-and be as standalone as possible. In this document we briefly describe each of
-the analyses needed for the paper and when possible we group them together, so
-as to provide more cohesion.
+[Vazquez-Baeza et al. 2016](http://www.nature.com/articles/nmicrobiol2016177).
+Each notebook tries to summarize a particular step and be as standalone as
+possible. In this document we briefly describe each of the analyses needed for
+the paper and when possible we group them together, so as to provide more
+cohesion.
 
 #### Important notes for the reader
 
