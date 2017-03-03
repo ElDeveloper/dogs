@@ -120,5 +120,5 @@ compare the differences betwee closed and open reference protocols.
 
 ---------------------
 
-List of Python dependencies that were not explicitly noted in the notebooks are
-listed in [requirements.txt](requirements.txt).
+[This Dockerfile](Dockerfile) should install any additional dependencies for
+these notebooks to work.
