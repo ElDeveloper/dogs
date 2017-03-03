@@ -66,7 +66,7 @@ for the next few notebooks.
 
 ## Feature exploration
 
-[**5-feature-exploration**](notebooks/005-feature-exploration.ipynb): this
+[**5-feature-exploration**](notebooks/05-feature-exploration.ipynb): this
 notebook looks at a few different ways to filter out the data so as to avoid
 OTUs that are not well represented througout the samples.
 
