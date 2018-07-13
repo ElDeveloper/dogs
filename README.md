@@ -13,7 +13,9 @@ cohesion.
 - This repository does not provide **all** the data files used, as the size
   would exceed the limits allowed in GitHub. However, we provide the main data
   files (metadata and OTU tables), from which the rest of the data can be
-  generated using these commands.
+  generated using these commands. The rest of the sequence data can be freely
+  accessed through Qiita (remember to log in) in [study
+  833](https://qiita.ucsd.edu/study/description/833).
 
 - In several locations in the notebooks, there are cells that reference a
   remote address (i.e. in `ssh` or `scp` commands), you don't need to execute
